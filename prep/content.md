@@ -10,7 +10,7 @@ Financial math is using math to solve money-related problems. To elaborate, it h
 
 ##### Software
 * 1st google search: "Budgeting with Technology Apps in Financial Math"
-* The very first app that caught my eye and reviewed was, [Goodbudget](https://goodbudget.com/?utm](https://goodbudget.com/how-it-works/))
+  * The very first app that caught my eye and reviewed was, [Goodbudget](https://goodbudget.com/?utm](https://goodbudget.com/how-it-works/))
   
   <img width="228" height="248" alt="image" src="https://github.com/user-attachments/assets/4fe00cbf-658d-4e13-9297-4cdc8e9a7ebd" />
 )
