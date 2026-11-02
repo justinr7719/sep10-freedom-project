@@ -10,10 +10,34 @@ Financial math is using math to solve money-related problems. To elaborate, it h
 
 ##### Software
 * 1st google search: "Budgeting with Technology Apps in Financial Math"
-  * The very first app that caught my eye and reviewed was, [Goodbudget](https://goodbudget.com/?utm](https://goodbudget.com/how-it-works/))
+* The very first app that caught my eye and reviewed was, [Goodbudget](https://goodbudget.com/?utm](https://goodbudget.com/how-it-works/))
   
   <img width="228" height="248" alt="image" src="https://github.com/user-attachments/assets/4fe00cbf-658d-4e13-9297-4cdc8e9a7ebd" />
-)
+
+     * No surprises in bill or sudden expense
+     * Each month, you can organize how much money you put in an envelope
+     * Helps individuals save for future goals
+     * Can be shared budgets with your loved one, roommate, or anyone in general
+     * Can be synchronize across devices as well
+
+ * Second app review I looked into was [HomeBank](https://www.gethomebank.org/en/index.php)
+ 
+   <img width="228" height="248" alt="image" src="https://github.com/user-attachments/assets/861a2e81-6fbf-437e-b074-73f31fc1b9fd" />
+     
+     * Creates charts that show where your money goes
+     * It can use "Automatic Assignment", in which it assigns transactions to categories using rules
+     * Free personal finance, doesn't require money
+     * Available in different languages
+       
+ * The third app I reviewed was [Akaunting](https://akaunting.com)
+
+      <img width="208" height="276" alt="image" src="https://github.com/user-attachments/assets/2ec71091-704f-4747-8697-74c0f2137760"/>
+
+     * Used for small businesses
+     * Uses "Client Portal" as a way to share the transactions and invoices with your clients.
+     * Keeps track on expenses and mounting bills
+     * Provides full privacy and makes sure data is safe
+     * Able to see your financials online anytime, making it easy to run your business from anywhere while also knowing your cash position.
 
 ##### Hardware
 * Tech
