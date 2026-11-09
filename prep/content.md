@@ -44,13 +44,30 @@ Financial math is using math to solve money-related problems. To elaborate, it h
 * All information is based upon the website [ChicagoTribune](https://reviews.chicagotribune.com/electronics/calculators/best-financial-calculators?cid=650117185&aid=1249046550836198&eid=&tid=kwd-78065785572348:loc-4116&ul=96969&mt=b&n=o&d=c&dm=&dt&sn&adid=&k=5%20best%20financial%20calculators&p=&pc=&ap=&chtrb=1&acid=10&msclkid=4305faa5a24a11dee62b9054b520f987&utm_source=bing&utm_medium=cpc&utm_campaign=Tribune%20-%20Electronics%20-%20Bing&utm_term=5%20best%20financial%20calculators&utm_content=Best%20Financial%20Calculators)
 
 
-  <img width="314" height="300" alt="image" src="https://github.com/user-attachments/assets/e4603b0d-6c42-4814-bcbd-fa8f462ff742" />
-  * Has fast work of the most complex computations meaning it can do difficult math equations in benefiting financial math field workers
-  * There are 250 built-in functions and a two line display that makes it easier to read with convenient menus and prompts
-  * Its design is portable meaning its easy to take anywhere with you
-  * Has a feature called loan calculations which helps determine monthly payments, interest, etc which is great for financial math
+ <img width="314" height="300" alt="image" src="https://github.com/user-attachments/assets/e4603b0d-6c42-4814-bcbd-fa8f462ff742" />
+  
+   * Has fast work of the most complex computations meaning it can do difficult math equations in benefiting financial math field workers
+   * There are 250 built-in functions and a two line display that makes it easier to read with convenient menus and prompts
+   * Its design is portable meaning its easy to take anywhere with you
+   * Has a feature called loan calculations which helps determine monthly payments, interest, etc which is great for financial math
+   * Can be bought from amazon
 
-* The second hardware I reviewed was
+* The second hardware I reviewed was Optical Mark Recognition (OMR)
+
+<img width="714" height="300" alt="image" src="https://github.com/user-attachments/assets/b2e93d72-39fe-4dbe-b6aa-95921d45c40f" />
+
+  * Reads marked information from forms and documents
+  * Helps organizations and business process large amounts of financial data
+  * Has fast processing and accuracy
+  * Can be around 750 dollars and be brought by amazon.
+
+* The third hardware I reviewed was a Smart Cash Safe
+
+<img width="778" height="800" alt="image" src="https://github.com/user-attachments/assets/13ac4870-f629-4384-acc8-c4dda971bc8e" />
+
+  * Can track business deposits
+  * Helps with individuals by calculating daily cash totals
+  * Overall improves the financial money record keeping and saves time for businesses and companies
 ## Part B: possible future technology
 * Idea
   * Detail
