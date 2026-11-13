@@ -89,6 +89,38 @@ Financial math is using math to solve money-related problems. To elaborate, it h
   * Immediate detection if the check has a compromised MICR line
   * $130 - $550 dollars found in eBay and staples
 
-## Part B: possible future technology
+## Category - By purpose
+
+* Money Management
+   * Financial Math apps + gadget
+   * Apps looked into: [HomeBank](https://www.gethomebank.org/en/index.php) and [Goodbudget](https://goodbudget.com/?utm](https://goodbudget.com/how-it-works/))
+   * A hardware gadget that I looked into: [Smart Cash Safe](https://us.brinks.com/-/what-is-a-smart-safe-benefits-challenges-and-options-for-retailers)
+   * Findings: HomeBank and Goodbudget are benefiting apps that allow a user to use their money wisely while also have a different way of doing so
+   * These two apps revolve on teaching the user to learn how to money manage and also be smart with it
+   * The Smart Cash Safe allows a business track their deposit making it easier and smoother for the business to be smart with their money and their next step in their business.
+   * As well, it teaches these businesses how to money manage
+
+ * Financial Calculations
+   * Financial Gadget
+   * A gadget that I looked into [HP 12C Calculator](https://reviews.chicagotribune.com/electronics/calculators/best-financial-calculators?cid=650117185&aid=1249046550836198&eid=&tid=kwd-78065785572348:loc-4116&ul=96969&mt=b&n=o&d=c&dm=&dt&sn&adid=&k=5%20best%20financial%20calculators&p=&pc=&ap=&chtrb=1&acid=10&msclkid=4305faa5a24a11dee62b9054b520f987&utm_source=bing&utm_medium=cpc&utm_campaign=Tribune%20-%20Electronics%20-%20Bing&utm_term=5%20best%20financial%20calculators&utm_content=Best%20Financial%20Calculators)
+   * Is manually handled
+   * Helps a person or business calculate 
+   * Has fast work of the most complex computations meaning it can do difficult math equations in benefiting financial math field workers
+   * There are 250 built-in functions and a two line display that makes it easier to read with convenient menus and prompts
+
+* Data processing
+   * Financial Math app + gadgets
+   * Gadgets looked into: [OMR scanner](https://www.rfwireless-world.com/terminology/omr-advantages-and-disadvantages-of-optical-mark-recognition) and [MICR Check Reader](https://www.rfwireless-world.com/terminology/micr-technology-in-banking)
+   * An app that I looked into: [Akaunting](https://akaunting.com)
+   * The OMR scanner processes filled in bubbles on paper forms and proceeded to turn them into digital information
+   * The MICR check reader reads numbers printed on the checks to help banks, businesses, or individuals to process them
+   * The akuanting app organizes business money records, bills, expenses, and invoices using data processing from the user
+
+* Currency Management
+   * Financial Math Gadget
+   * The financial math Gadget I looked into: [Banknote Fitness Sorter](https://www.nassaroffice.com/guides-insights/cash-handling/what-is-fitness-sorter/)
+   * Checks bills and separates worn out or damaged ones
+   * Helps keep cash organized and makes handling money a bit easier
+## Part B: possible future technology.
 * Idea
   * Detail
