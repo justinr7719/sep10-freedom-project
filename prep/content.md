@@ -8,7 +8,7 @@ Financial math is using math to solve money-related problems. To elaborate, it h
 
 ## Part A: existing technology
 
-##### Software
+## Software
 * 1st google search: "Budgeting with Technology Apps in Financial Math"
 * The very first app that caught my eye and reviewed was, [Goodbudget](https://goodbudget.com/?utm](https://goodbudget.com/how-it-works/))
   
@@ -39,7 +39,7 @@ Financial math is using math to solve money-related problems. To elaborate, it h
      * Provides full privacy and makes sure data is safe
      * Able to see your financials online anytime, making it easy to run your business from anywhere while also knowing your cash position.
 
-##### Hardware
+## Hardware
 * First google search: "Financial Math Gadgets"
 * All information is based upon the website [ChicagoTribune](https://reviews.chicagotribune.com/electronics/calculators/best-financial-calculators?cid=650117185&aid=1249046550836198&eid=&tid=kwd-78065785572348:loc-4116&ul=96969&mt=b&n=o&d=c&dm=&dt&sn&adid=&k=5%20best%20financial%20calculators&p=&pc=&ap=&chtrb=1&acid=10&msclkid=4305faa5a24a11dee62b9054b520f987&utm_source=bing&utm_medium=cpc&utm_campaign=Tribune%20-%20Electronics%20-%20Bing&utm_term=5%20best%20financial%20calculators&utm_content=Best%20Financial%20Calculators) for the first hardware and the rest is other websites.
 
@@ -87,7 +87,7 @@ Financial math is using math to solve money-related problems. To elaborate, it h
   * Small to none on the amount of errors
   * Has a fraud prevention
   * Immediate detection if the check has a compromised MICR line
-    
+  * $130 - $550 dollars found in eBay and staples
 
 ## Part B: possible future technology
 * Idea
