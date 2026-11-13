@@ -41,7 +41,7 @@ Financial math is using math to solve money-related problems. To elaborate, it h
 
 ##### Hardware
 * First google search: "Financial Math Gadgets"
-* All information is based upon the website [ChicagoTribune](https://reviews.chicagotribune.com/electronics/calculators/best-financial-calculators?cid=650117185&aid=1249046550836198&eid=&tid=kwd-78065785572348:loc-4116&ul=96969&mt=b&n=o&d=c&dm=&dt&sn&adid=&k=5%20best%20financial%20calculators&p=&pc=&ap=&chtrb=1&acid=10&msclkid=4305faa5a24a11dee62b9054b520f987&utm_source=bing&utm_medium=cpc&utm_campaign=Tribune%20-%20Electronics%20-%20Bing&utm_term=5%20best%20financial%20calculators&utm_content=Best%20Financial%20Calculators)
+* All information is based upon the website [ChicagoTribune](https://reviews.chicagotribune.com/electronics/calculators/best-financial-calculators?cid=650117185&aid=1249046550836198&eid=&tid=kwd-78065785572348:loc-4116&ul=96969&mt=b&n=o&d=c&dm=&dt&sn&adid=&k=5%20best%20financial%20calculators&p=&pc=&ap=&chtrb=1&acid=10&msclkid=4305faa5a24a11dee62b9054b520f987&utm_source=bing&utm_medium=cpc&utm_campaign=Tribune%20-%20Electronics%20-%20Bing&utm_term=5%20best%20financial%20calculators&utm_content=Best%20Financial%20Calculators) for the first hardware and the rest is other websites.
 
 
  <img width="314" height="300" alt="image" src="https://github.com/user-attachments/assets/e4603b0d-6c42-4814-bcbd-fa8f462ff742" />
@@ -68,6 +68,27 @@ Financial math is using math to solve money-related problems. To elaborate, it h
   * Can track business deposits
   * Helps with individuals by calculating daily cash totals
   * Overall improves the financial money record keeping and saves time for businesses and companies
+
+* The fourth hardware I reviewed was a Banknote Fitness Sorter.
+
+<img width="1090" height="858" alt="image" src="https://github.com/user-attachments/assets/014f856c-6085-4ec6-9690-251f583c16c4" />
+
+  * Approximately $2,599 on Walmart
+  * Reduces the amount of time on manual handling and speeds up cash processing\
+  * Improves sorting consistency
+  * Helps businesses maintain a better control over their expenses of cash
+
+* The fifth hardware I reviewed was a MICR Check Reader
+
+<img width="726" height="608" alt="image" src="https://github.com/user-attachments/assets/11bf5955-9410-4845-8a9a-d9543d6ffe61" />
+
+  * Reads the bank routing number, account number, and check number within a check
+  * Also has a fast processing and reduces the time on manual handling
+  * Small to none on the amount of errors
+  * Has a fraud prevention
+  * Immediate detection if the check has a compromised MICR line
+    
+
 ## Part B: possible future technology
 * Idea
   * Detail
